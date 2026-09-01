@@ -1,0 +1,1 @@
+worker: python discord_player_analyzer_step11.py
